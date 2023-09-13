@@ -1,8 +1,8 @@
 
 /* Your CSS Code here. */
-.child{
+.item{
 	height:100px;
-	width:100px;
+	width:100px;holder
 }
 .box-1{
 	background:green;
@@ -13,7 +13,7 @@
 .box-3{
 	background:blue;
 }
-.parent{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
